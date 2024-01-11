@@ -43,7 +43,7 @@
   <li>Execute o script principal:</li>
 
   ```bash
-  python inicial.py
+  python main.py
   ```
 
 </ol>
