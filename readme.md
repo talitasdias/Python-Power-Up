@@ -1,6 +1,6 @@
 # Python Power Up
 ## Projeto de Automação de Tarefas em Python
-<p>Este projeto foi criado como parte do intensivão oferecido pela <a href='https://www.hashtagtreinamentos.com/'>Hashtag Treinamentos</a>, com o objetivo de explorar automação de tarefas em Python.</p>
+<p>Este projeto foi criado como parte do intensivão oferecido pela <a href='https://www.hashtagtreinamentos.com/' target='_blank'>Hashtag Treinamentos</a>, com o objetivo de explorar automação de tarefas em Python.</p>
 
 ## Descrição:
 <p>O projeto consiste em uma ferramenta de automação que preenche automaticamente um formulário web utilizando dados de um arquivo CSV. Essa solução eficiente visa simplificar processos repetitivos e economizar tempo, proporcionando uma experiência mais ágil e precisa.</p>
