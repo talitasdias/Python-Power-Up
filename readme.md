@@ -1,0 +1,1 @@
+<img src='capa.gif' width='100px'>
