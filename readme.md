@@ -11,3 +11,41 @@
   <li>Economizar Horas de Trabalho</li>
   <li>RPA e Web-Scraping</li>
 </ul>
+
+## Tecnologias Utilizadas:
+<ul>
+  <li><a href='https://www.python.org/'>Python</a></li>
+  <li><a href='https://pyautogui.readthedocs.io/en/latest/'>pyautogui</a> - Para automação de interações com a interface gráfica.</li>
+  <li><a href='https://pandas.pydata.org/'>pandas</a> - Para manipulação e análise de dados.</li>
+</ul>
+
+## Como Utilizar
+<ol>
+  <li>Abra o terminal ou prompt de comando no diretório desejado.</li>
+  <li>Clone o repositório usando o seguinte comando:</li>
+  
+  ```bash
+  git clone https://github.com/talitasdias/Python-Power-Up.git
+  ```
+
+  <li>Navegue até o diretório do projeto:</li>
+
+  ```bash
+  cd Python-Power-Up
+  ```
+
+  <li>Instale as bibliotecas necessárias:</li>
+  
+  ```bash
+  pip install pyautogui pandas
+  ```
+
+  <li>Execute o script principal:</li>
+
+  ```bash
+  python inicial.py
+  ```
+
+</ol>
+   Agora você está pronto para começar a usar ou contribuir para o projeto!
+  
